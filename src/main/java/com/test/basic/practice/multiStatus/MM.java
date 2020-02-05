@@ -8,7 +8,7 @@ public class MM {
     public static void main(String[] args){
         M m = new M();
         Dog dog = new Dog();
-        Bone bone = new Bone();
+        bone bone = new bone();
         m.feed(dog , bone) ;
     }
 }
